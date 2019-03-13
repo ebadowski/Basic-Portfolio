@@ -1,0 +1,13 @@
+section{
+    background-color: antiquewhite;
+    width: 960px;
+    margin: 0 auto;
+    padding: 10px;
+    box-sizing: border-box;
+}
+section h1{
+    font-size: 2em;
+    margin: 0;
+    border-bottom: 1px solid #333;
+    margin-bottom: 10px;
+}

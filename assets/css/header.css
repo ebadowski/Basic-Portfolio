@@ -1,0 +1,32 @@
+header{
+    background-color: yellow;
+    height: 50px;
+}
+header div{
+    background-color: yellowgreen;
+    width: 960px;
+    margin: 0 auto;
+    height: 50px;
+
+}
+header h1{
+    float:  left;
+    margin: 0;
+    background-color: blueviolet;
+    height: 50px;
+    padding: 5px 10px;
+    box-sizing: border-box;
+}
+nav{
+    float: right;
+    margin: 0;
+    background-color: plum;
+    height: 50px;
+    padding-top: 15px;
+    box-sizing: border-box;
+}
+nav a{
+    padding-left: 15px;
+    text-decoration: none;
+    color: black;
+}
