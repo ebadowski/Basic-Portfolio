@@ -10,10 +10,10 @@
     background-image: url("../images/Me\ and\ Daggy.jpg");
 }
 .portfolio-item h4{
-    position: absolute;
-    bottom: 1em;
+    position: relative;
+    bottom: -175px;
     background-color: rgba(255, 100, 100, .75);
-    width: 100%;
+    width: 300px;
     text-align: center;
     padding: .5em 0;
     font-size: 2em;
